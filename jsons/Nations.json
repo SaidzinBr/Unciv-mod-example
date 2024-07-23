@@ -1,38 +1,42 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Humanos",
+		"leaderName": "Davi Said II",
+		"adjective": ["Humano"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Davi Said II",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Olá, nós somos eres inteligentes criados para serem o mais próximo que um ser pode ter da perfeição!.!",
+		"startIntroPart2": "Nós fomos criados como os seres perfeitos, tão equilibrados quanto o próprio Nexus, somos muito inteligentes e se importamos muito com todos os integrantes!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Você testou a hira e a força dos humanos, espere as consequências!!",
+		"attacked": "Você quer brincar então?!",
+		"defeated": "Ataque inútilzin, agora enfrente nosso poder.",
+		"introduction": "Nois não queremos te machucar",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Olá tudo bem?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "O que você quer?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "acho que podemos fazer uma boa ideia de negócio.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"favoredReligion": "Christianity",
+		"uniqueName": "Esforçados",
+		"unique": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Jequié","Q'Caucaia","Q'Aracaju","Q'Itaim","Q'Fortaleza","Q'Camargo novo","Q'Poá","Q'Itanhaem","Q'Teoflotoni",
+			"Q'Santa fé do Sul","Q'Suiça","Q'Salt Lake","Q'Noruega","Q'Finlandia","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"spyNames": ["Daniella", "Dionatan", "Joana", "Diego", "Gustavo", "Flor", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+
 	}
 ]
